@@ -1,0 +1,14 @@
+**/__tmp__
+
+**/.Trash-1000
+**/.DS_Store
+**/.ipynb_checkpoints
+**/__pycache__
+**/.vscode
+
+**/CMakeFiles
+**/*.cmake
+**/CMakeCache.txt
+**/Makefile
+
+tools/googletest
